@@ -1,6 +1,7 @@
 %% Auteur : NGUYEN Anh Vu
 %% Instructeur :  Oscar ACOSTA
 %% FACE RECOGNITION WITH THE METHOD OF EIGENFACES
+%% Reference: M. Turk, and A. Pentland, “Eigenfaces for recognition,” J. Cognit. Neurosci., vol.3, no. 1, pp. 71-86, 1991.
 
 close all
 clc
